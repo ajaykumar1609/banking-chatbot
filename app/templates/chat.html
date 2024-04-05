@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banking Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <div class="chat-container">
+        <h1>Banking Chatbot</h1>
+        <ul class="messages" id="messages">
+            <li class="bot-message">Welcome to the Banking Chatbot!</li>
+        </ul>
+        <div>
+            <button onclick="startListening()">Start Listening</button>
+            <button onclick="stopListening()">Stop Listening</button>
+        </div>
+        <input type="text" id="userInput" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        let mediaRecorder;
+        let audioChunks = [];
+        
+        function startRecording() {
+            navigator.mediaDevices.getUserMedia({ audio: true })
+                .then(stream => {
+                    mediaRecorder = new MediaRecorder(stream);
+                    mediaRecorder.ondataavailable = e => {
+                        audioChunks.push(e.data);
+                    };
+                    mediaRecorder.onstop = () => {
+                        const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+
+                        const reader = new FileReader();
+                        reader.readAsArrayBuffer(audioBlob);
+                        reader.onloadend = () => {
+                            // Convert raw audio data to WAV format using wav-audio-encoder-js
+                            const encoder = new WavAudioEncoder(44100, 1);
+                            encoder.encode(reader.result);
+                            const wavBlob = encoder.finish();
+                            const formData = new FormData();
+                            formData.append('audio', wavBlob, 'recording.wav');
+
+                            fetch('/recognize_audio', {
+                                method: 'POST',
+                                body: formData
+                            })
+                            .then(response => response.json())
+                            .then(data => {
+                                // Add recognized text to the chat interface
+                                const userMessageElement = document.createElement('li');
+                                userMessageElement.className = 'message user-message';
+                                userMessageElement.textContent = data.transcription;
+                                document.getElementById('messages').appendChild(userMessageElement);
+                            })
+                            .catch(error => console.error('Error:', error));
+                        };
+                        
+                    };
+                    mediaRecorder.start();
+                    document.getElementById('startRecordingBtn').disabled = true;
+                    document.getElementById('stopRecordingBtn').disabled = false;
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        function stopRecording() {
+            mediaRecorder.stop();
+            document.getElementById('startRecordingBtn').disabled = false;
+            document.getElementById('stopRecordingBtn').disabled = true;
+        }
+
+
+        async function sendAudioToBackend(audioBlob) {
+            const formData = new FormData();
+            formData.append('audio', audioBlob);
+
+            try {
+                const response = await fetch('/recognize-speech', {
+                    method: 'POST',
+                    body: formData
+                });
+                const result = await response.json();
+                console.log(result);
+                // Handle the result as needed
+            } catch (error) {
+                console.error('Error sending audio to backend: ', error);
+            }
+        }
+        let recognition;
+
+        function startListening() {
+            recognition = new window.webkitSpeechRecognition(); // initialize speech recognition
+            recognition.continuous = true;
+            recognition.interimResults = true;
+
+            recognition.onresult = function (event) {
+                const transcript = event.results[event.results.length - 1][0].transcript;
+                document.getElementById('userInput').value = transcript;
+            };
+
+            recognition.start(); // start listening
+        }
+
+        function stopListening() {
+            if (recognition) {
+                recognition.stop(); // stop listening
+            }
+        }
+
+        function sendMessage() {
+            var userInput = document.getElementById('userInput').value;
+            var messages = document.getElementById('messages');
+
+            // Add user message to the chat interface
+            var userMessageElement = document.createElement('li');
+            userMessageElement.className = 'message user-message';
+            userMessageElement.textContent = userInput;
+            messages.appendChild(userMessageElement);
+
+            // Clear the input field
+            document.getElementById('userInput').value = '';
+
+            // Send the user message to the server and receive response
+            fetch('/send_message', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ message: userInput })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    // Add bot response to the chat interface
+                    var botMessageElement = document.createElement('li');
+                    botMessageElement.className = 'message bot-message';
+                    botMessageElement.textContent = data.response;
+                    messages.appendChild(botMessageElement);
+
+                    // Speak the bot's response
+                    speak(data.response);
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        // Function to speak the provided text
+        function speak(text) {
+            var utterance = new SpeechSynthesisUtterance(text);
+            speechSynthesis.speak(utterance);
+        }
+    </script>
+</body>
+
+</html>

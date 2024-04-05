@@ -1,0 +1,1555 @@
+Sentence,Intent
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+"I'd like to check my balance, please.",GET_BALANCE
+I'd like to inquire about my balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+How much money is there in my account?,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Share my account balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+I want to send $100 to my grandparents.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Inform me about my account balance.,GET_BALANCE
+Could you please check and tell me my balance?,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+What is the balance in my account at the moment?,GET_BALANCE
+Is there any overdue rent to be cleared off?,GET_DUE
+Are there any pending bills to be addressed off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Can you provide information on my account balance?,GET_BALANCE
+How much money do I have?,GET_BALANCE
+Do I have any pending dues to be addressed off?,GET_DUE
+I want to send $95 to my brother for the photography class.,TRANSFER_MONEY
+Please check my current balance.,GET_BALANCE
+Move $80 to my wife's PayPal.,TRANSFER_MONEY
+Provide details about my current balance.,GET_BALANCE
+Check and inform me about my balance.,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Is there any unpaid rent to be addressed off?,GET_DUE
+Is there any debt I need to address off?,GET_DUE
+Provide details about my current balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any unpaid dues?,GET_DUE
+I want to check my balance.,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Is there any pending fees to be settled off?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Is there any unpaid rent to be settled off?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any pending bills to be addressed off?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+Are there any overdue payments to be cleared?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Are there any pending bills to be addressed off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Please send $90 to Chris for the birthday gift.,TRANSFER_MONEY
+Are there any unsettled debts?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+How much money do I have in my account?,GET_BALANCE
+Is there any money I owe?,GET_DUE
+Is there any outstanding rent to be cleared?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Can you check my balance for me?,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Check and let me know my current balance.,GET_BALANCE
+Is there any overdue rent to be cleared off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any unsettled debts to be addressed off?,GET_DUE
+Inform me about the balance in my account.,GET_BALANCE
+How much money is in my account?,GET_BALANCE
+Can you provide my current balance?,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Are there any overdue payments to be addressed off?,GET_DUE
+Let me know the balance in my account.,GET_BALANCE
+Is there any unpaid rent to be settled off?,GET_DUE
+Is there any unpaid rent to be addressed off?,GET_DUE
+Can you check my balance for me?,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Please check and tell me my balance?,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any balances to be addressed off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Could you please tell me my current balance?,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I'm interested in knowing my account balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+How much money is in my account?,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+How much money do I have in my account?,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+What's my balance right now?,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Have I overlooked any dues?,GET_DUE
+I want to move $75 to my travel fund.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+I'd like to move $110 to my brother for the painting class.,TRANSFER_MONEY
+I'd like to check my current account balance.,GET_BALANCE
+Is there any pending fees to be settled off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Are there any pending bills to be addressed off?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Transfer $110 to my friend for the coding bootcamp.,TRANSFER_MONEY
+Could you please tell me my current balance?,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+How much money is there in my account?,GET_BALANCE
+Is there any overdue rent to be cleared off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+Are there any outstanding fees?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any balances to be addressed off?,GET_DUE
+Are there any pending payments?,GET_DUE
+Is there any debt I need to address off?,GET_DUE
+Are there any unpaid balances to be settled off?,GET_DUE
+Are there any pending bills?,GET_DUE
+Is there any pending balance?,GET_DUE
+Do I have any pending fees?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Please inform me about my current balance.,GET_BALANCE
+Transfer $120 to my niece for her art exhibition.,TRANSFER_MONEY
+Check and let me know my account balance.,GET_BALANCE
+"I'd like to check my balance, please.",GET_BALANCE
+Are there any outstanding balances to be cleared off?,GET_DUE
+What's the balance of my account?,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+I'd like to move $40 to my checking account.,TRANSFER_MONEY
+Inform me about the balance in my account.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any balance due?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any unpaid rent to be settled off?,GET_DUE
+Could you please check and tell me my balance?,GET_BALANCE
+What's my balance right now?,GET_BALANCE
+Please share the details of my balance.,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Send $75 to Jessica for the project.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+Provide details about my balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+"I'd like to check my balance, please.",GET_BALANCE
+Are there any balances to be cleared off?,GET_DUE
+Could you please tell me my current balance?,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+Tell me my current account balance.,GET_BALANCE
+What is my balance right now?,GET_BALANCE
+Is there any outstanding amount?,GET_DUE
+Are there any overdue payments to be settled?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+I'm interested in knowing my account balance.,GET_BALANCE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+Is there any overdue rent?,GET_DUE
+Do I have any pending expenses to be addressed?,GET_DUE
+Do I have any balances to be addressed off?,GET_DUE
+Please inform me about my current balance.,GET_BALANCE
+Tell me my current account balance.,GET_BALANCE
+Is there any overdue rent to be cleared off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Do I have any balances to be addressed off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Is there any pending fees to be cleared?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Provide details about my balance.,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any pending bills to be addressed off?,GET_DUE
+Do I have any pending dues?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+I need to send $85 to my sister's account.,TRANSFER_MONEY
+What's my current balance?,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+Are there any pending bills to be paid?,GET_DUE
+Are there any outstanding balances?,GET_DUE
+Transfer $100 to my friend for the fitness workshop.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Give me details about my balance.,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+Can you check my current balance?,GET_BALANCE
+Transfer $75 to my brother-in-law.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Check and provide my account balance.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+What's the balance in my account right now?,GET_BALANCE
+Check and provide my account balance.,GET_BALANCE
+Do I have any balances to be settled off?,GET_DUE
+Are there any pending charges?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Move $120 to my son's account.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+Can you check my balance for me?,GET_BALANCE
+Are there any pending invoices?,GET_DUE
+Provide my balance details.,GET_BALANCE
+Inform me about the balance in my bank account.,GET_BALANCE
+Transfer $40 to support a local business.,TRANSFER_MONEY
+What's my current balance?,GET_BALANCE
+Can you check my balance for me?,GET_BALANCE
+Send $95 to my son for the painting competition.,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+"I'd like to check my balance, please.",GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Do I have any pending dues to be paid?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Do I need to make any payments?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+I want to know my balance.,GET_BALANCE
+Please send $95 to my friend Alex.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Is there any debt I need to address off?,GET_DUE
+Give me details about my balance.,GET_BALANCE
+Please share my current balance.,GET_BALANCE
+Tell me my account balance.,GET_BALANCE
+Send $95 to Lily for the art supplies.,TRANSFER_MONEY
+Send $75 to my nephew for his graduation.,TRANSFER_MONEY
+Please share the details of my balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Are there any overdue payments to be addressed off?,GET_DUE
+Send $85 to my niece for the language class.,TRANSFER_MONEY
+Can you provide my current balance?,GET_BALANCE
+Provide details about my current balance.,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+Transfer $95 to my brother for the language class.,TRANSFER_MONEY
+What's the balance of my account?,GET_BALANCE
+Can you check my current balance?,GET_BALANCE
+Give me information about my balance.,GET_BALANCE
+Move $60 to my sister's PayPal.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+What is my balance right now?,GET_BALANCE
+How much money do I have?,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Can you share my account balance?,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Check and inform me about my balance.,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+I need to send $55 to my friend for the car repair.,TRANSFER_MONEY
+Let me know the balance in my account.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Share details about my balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Do I have any obligations to settle?,GET_DUE
+Check and provide my current account balance.,GET_BALANCE
+I want to check my balance.,GET_BALANCE
+Please transfer $110 to Peter.,TRANSFER_MONEY
+Let me know the current balance in my account.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Send $75 to my colleague.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+What is my balance right now?,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Do I have any pending invoices?,GET_DUE
+I'd like to move $100 to my savings account.,TRANSFER_MONEY
+Can you provide information on my account balance?,GET_BALANCE
+Inform me about my account balance.,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Are there any unpaid balances to be settled off?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+Do I have any pending dues to be addressed off?,GET_DUE
+Transfer $110 to my daughter for the art exhibition.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+Send $95 to my brother for the photography class.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+I'm interested in knowing my balance.,GET_BALANCE
+Is there any unpaid rent to be addressed off?,GET_DUE
+Can you transfer $70 to my nephew for college?,TRANSFER_MONEY
+Provide my balance details.,GET_BALANCE
+Is there any balance I need to settle?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+What's the balance of my account?,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+I want to inquire about my balance.,GET_BALANCE
+Check and let me know my account balance.,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+What's my balance right now?,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+What's the balance in my account right now?,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+I want to send $85 to Robert for groceries.,TRANSFER_MONEY
+Are there any unsettled debts to be addressed off?,GET_DUE
+Can you provide my current balance?,GET_BALANCE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any unsettled debts to be addressed off?,GET_DUE
+Is there anything I need to pay?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Move $120 to my wife's account.,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Give me information about my balance.,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+Can you share my account balance?,GET_BALANCE
+Is there any overdue rent to be cleared off?,GET_DUE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Tell me my current account balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+Are there any pending bills to be addressed off?,GET_DUE
+Can you check my current balance?,GET_BALANCE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Could you please tell me my current balance?,GET_BALANCE
+Is there any debt I need to address off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Is there any debt I need to address off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Is there any outstanding expense?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Do I have any balances to be addressed?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+How much money do I have in my account?,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Move $60 to my brother's bank account.,TRANSFER_MONEY
+Are there any unpaid balances to be paid?,GET_DUE
+Is there any unpaid rent to be settled off?,GET_DUE
+I'd like to inquire about my balance.,GET_BALANCE
+Is there any outstanding rent to be paid?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+Is there any money to be paid?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+What is the current balance in my account?,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Check and provide my account balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Do I have any outstanding balances?,GET_DUE
+Please share my current balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Can you share my current account balance?,GET_BALANCE
+Provide details about my current balance.,GET_BALANCE
+Share my account balance.,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+Are there any overdue payments to be addressed off?,GET_DUE
+Provide my balance details.,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+What's the balance of my account?,GET_BALANCE
+Could you please tell me my current balance?,GET_BALANCE
+What's the balance of my account?,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+Do I have any pending dues to be addressed off?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+Check and provide my current account balance.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Please check my current balance.,GET_BALANCE
+Can you share my current account balance?,GET_BALANCE
+Give me information about my balance.,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any dues to be paid?,GET_DUE
+I'm interested in knowing my balance.,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Provide details about my balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Are there any overdue payments to be made?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+Transfer $90 to support a local charity.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+What is the current balance in my account?,GET_BALANCE
+Is there any outstanding rent to be settled?,GET_DUE
+Can you share my current account balance?,GET_BALANCE
+How much money do I have?,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+I need to send $100 to my sister for the painting workshop.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Do I have any unpaid rents?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+Provide details about my balance.,GET_BALANCE
+Can you share my account balance?,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+I want to inquire about my balance.,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+I'm interested in knowing my balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Do I have any pending expenses to be addressed off?,GET_DUE
+Do I have any unpaid payments to be made?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Are there any unsettled debts to be cleared?,GET_DUE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Inform me about the balance in my account.,GET_BALANCE
+Transfer $120 to my niece for her coding bootcamp.,TRANSFER_MONEY
+Let me know the balance in my account.,GET_BALANCE
+I'm interested in knowing my balance.,GET_BALANCE
+Check and provide my current account balance.,GET_BALANCE
+Are there any outstanding balances to be cleared off?,GET_DUE
+I'm interested in knowing my balance.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+How much money is in my account?,GET_BALANCE
+Provide details about my current balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+Transfer $95 to my son's school fund.,TRANSFER_MONEY
+Is there any unpaid rent to be addressed off?,GET_DUE
+I need to send $100 to my colleague.,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Tell me the amount in my account.,GET_BALANCE
+Can you share my account balance?,GET_BALANCE
+I'd like to check my current account balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+What is my balance right now?,GET_BALANCE
+Please share my current balance.,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Please inform me about my current balance.,GET_BALANCE
+Do I have any pending expenses to be paid?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Can you check my current balance?,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+Check and inform me about my balance.,GET_BALANCE
+What is the balance in my account at the moment?,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+I'm interested in knowing my account balance.,GET_BALANCE
+Do I have any balances to pay off?,GET_DUE
+I'm interested in knowing my account balance.,GET_BALANCE
+Are there any unsettled dues?,GET_DUE
+Are there any unpaid balances to be settled off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Are there any overdue payments?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+What's my balance right now?,GET_BALANCE
+Do I have any pending expenses to be cleared?,GET_DUE
+Are there any outstanding balances to be addressed?,GET_DUE
+Tell me my account balance.,GET_BALANCE
+I want to send $95 to my brother for the photography class.,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+I need to send $120 to Sarah.,TRANSFER_MONEY
+Give me information about my balance.,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Inform me about the balance in my account.,GET_BALANCE
+Please transfer $70 to my daughter.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+Do I have any pending expenses to be cleared off?,GET_DUE
+Do I have any unpaid charges?,GET_DUE
+Can you share my current account balance?,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+What's my balance right now?,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any overdue rent to be cleared off?,GET_DUE
+Are there any unpaid balances to be addressed off?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+What's my balance right now?,GET_BALANCE
+Check and provide my account balance.,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Is there any unpaid rent to be settled off?,GET_DUE
+I want to inquire about my balance.,GET_BALANCE
+Can you transfer $75 to Mary?,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+Share information about my balance.,GET_BALANCE
+Share details about my balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Give me information about my balance.,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Tell me my account balance.,GET_BALANCE
+What's the balance in my account right now?,GET_BALANCE
+Send $50 to Robert for lunch.,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+Are there any unpaid balances to be settled off?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Provide details about my current balance.,GET_BALANCE
+Could you please check and tell me my balance?,GET_BALANCE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Are there any pending bills to be addressed off?,GET_DUE
+Give me details about my balance.,GET_BALANCE
+"I'd like to check my balance, please.",GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Could you please tell me my current balance?,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Please check my current balance.,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+"I'd like to check my balance, please.",GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Check and provide my current account balance.,GET_BALANCE
+Transfer $90 to my brother.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Can you provide information on my account balance?,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+How much money do I have?,GET_BALANCE
+Are there any overdue payments to be addressed off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Can you provide my current balance?,GET_BALANCE
+Give me details about my balance.,GET_BALANCE
+Is there any unpaid rent to be settled off?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Share my account balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Check and provide my account balance.,GET_BALANCE
+Send $40 to Lisa for the party.,TRANSFER_MONEY
+Please share the details of my balance.,GET_BALANCE
+Provide details about my current balance.,GET_BALANCE
+Share details about my balance.,GET_BALANCE
+Do I have any dues?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+Have I neglected any bills?,GET_DUE
+Tell me the amount in my account.,GET_BALANCE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Please check my current balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+I want to transfer $70 to support a community project.,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any unsettled debts to be addressed off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any pending bills to be addressed off?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+I'd like to inquire about my balance.,GET_BALANCE
+Check and let me know my current balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Give me information about my balance.,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Send $60 to my daughter for the painting workshop.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+Give me information about my balance.,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Is there any amount outstanding?,GET_DUE
+Share information about my balance.,GET_BALANCE
+Share information about my balance.,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+How much money is in my account?,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Have I incurred any debts?,GET_DUE
+Can you transfer $110 to my friend Mike?,TRANSFER_MONEY
+Let me know the current balance in my account.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Is there any pending fees to be settled?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Do I have any balances to be addressed off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+I'd like to transfer $90 to my utility bills.,TRANSFER_MONEY
+Do I have any unpaid invoices?,GET_DUE
+Move $85 to my friend for the gardening workshop.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+Please inform me about my current balance.,GET_BALANCE
+Is there any outstanding payment?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Let me know the balance in my account.,GET_BALANCE
+Send $70 to my best friend.,TRANSFER_MONEY
+Is there any debt I need to clear?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Can you transfer $85 to my daughter for the school supplies?,TRANSFER_MONEY
+Let me know the balance in my account.,GET_BALANCE
+Can you share my account balance?,GET_BALANCE
+"I'd like to check my balance, please.",GET_BALANCE
+Inform me about the balance in my account.,GET_BALANCE
+Inform me about my account balance.,GET_BALANCE
+Please share the details of my balance.,GET_BALANCE
+Is there any debt I need to address?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Give me details about my balance.,GET_BALANCE
+I want to inquire about my balance.,GET_BALANCE
+Can you transfer $110 to my friend Tom?,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any overdue rent to be cleared?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Move $75 to my friend for the fitness program.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+I want to send $100 to my sister for the new laptop.,TRANSFER_MONEY
+Tell me my current account balance.,GET_BALANCE
+Are there any balances to be cleared off?,GET_DUE
+What is my balance right now?,GET_BALANCE
+Is there any pending payments to be addressed?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any unpaid balances to be addressed off?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Check and provide my current account balance.,GET_BALANCE
+Transfer $55 to my sister for the photography competition.,TRANSFER_MONEY
+Do I have any balances to be cleared up?,GET_DUE
+I want to check my balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Can you transfer $75 to my friend for the woodworking class?,TRANSFER_MONEY
+Share details about my balance.,GET_BALANCE
+How much money do I have?,GET_BALANCE
+Share details about my balance.,GET_BALANCE
+What's my balance right now?,GET_BALANCE
+Give me information about my balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Please share my current balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Have I missed any payments?,GET_DUE
+Provide my balance details.,GET_BALANCE
+Check and let me know my account balance.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Check and let me know my current balance.,GET_BALANCE
+Please share my current balance.,GET_BALANCE
+Is there any unpaid rent to be addressed off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any overdue rent to be cleared off?,GET_DUE
+How much money do I have in my account?,GET_BALANCE
+What is the current balance in my account?,GET_BALANCE
+How much money do I have in my account?,GET_BALANCE
+Are there any balances to address?,GET_DUE
+Share information about my balance.,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Do I have any pending dues?,GET_DUE
+Do I have any pending dues to be addressed?,GET_DUE
+Tell me the amount in my account.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Please check my current balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Share my account balance.,GET_BALANCE
+Do I have any balances to be settled off?,GET_DUE
+Do I have any unsettled payments?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+I want to know my balance.,GET_BALANCE
+What's the balance of my account?,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+How much money do I have?,GET_BALANCE
+Do I have any balances to be settled off?,GET_DUE
+Tell me my account balance.,GET_BALANCE
+Is there any overdue balance?,GET_DUE
+How much money is there in my account?,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+Are there any pending bills to be addressed off?,GET_DUE
+Do I have any unpaid payments to be addressed?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+I'd like to move $100 to my brother for the fitness program.,TRANSFER_MONEY
+Do I have any unpaid expenses?,GET_DUE
+How much money do I have in my account?,GET_BALANCE
+What is my balance right now?,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Provide my balance details.,GET_BALANCE
+Inform me about the balance in my bank account.,GET_BALANCE
+Can you share my current account balance?,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+What is the current balance in my account?,GET_BALANCE
+Is there any unpaid rent to be addressed off?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Do I have any pending invoices to pay?,GET_DUE
+Let me know the balance in my account.,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any overdue payments to be addressed off?,GET_DUE
+Please share the details of my balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Do I have any pending expenses to be addressed off?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Please send $45 to Mark for the trip.,TRANSFER_MONEY
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Give me details about my balance.,GET_BALANCE
+Share details about my balance.,GET_BALANCE
+What's the balance in my account right now?,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+Can you provide information on my account balance?,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Tell me my current account balance.,GET_BALANCE
+Check and provide my account balance.,GET_BALANCE
+Share my account balance.,GET_BALANCE
+What's my current balance?,GET_BALANCE
+Is there any unpaid debt?,GET_DUE
+Can you provide my current balance?,GET_BALANCE
+I want to send $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Transfer $70 to Lily for the art supplies.,TRANSFER_MONEY
+Could you please check and tell me my balance?,GET_BALANCE
+I'm interested in knowing my balance.,GET_BALANCE
+What's the balance of my account?,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+Can you check my balance for me?,GET_BALANCE
+Do I have any pending rents?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+What is the current balance in my account?,GET_BALANCE
+Can you share my current account balance?,GET_BALANCE
+Is there any debt I need to address off?,GET_DUE
+Inform me about my account balance.,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Send $85 to my cousin for the trip.,TRANSFER_MONEY
+What's my current balance?,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+I'm interested in knowing my account balance.,GET_BALANCE
+What's my balance?,GET_BALANCE
+How much money is in my account?,GET_BALANCE
+Are there any pending fees?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+What is the current balance in my account?,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Inform me about my account balance.,GET_BALANCE
+Could you please tell me my current balance?,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Provide my balance details.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+I want to check my balance.,GET_BALANCE
+Check and let me know my account balance.,GET_BALANCE
+I need to send $110 to my friend for the coding bootcamp.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+What's the balance in my account right now?,GET_BALANCE
+What's my current balance?,GET_BALANCE
+Is there any debt I need to address off?,GET_DUE
+Please transfer $200 to Alice.,TRANSFER_MONEY
+Check and inform me about my balance.,GET_BALANCE
+I want to check my balance.,GET_BALANCE
+Are there any overdue payments to be addressed off?,GET_DUE
+Check and provide my account balance.,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Is there any unpaid rent to be settled off?,GET_DUE
+What's my balance right now?,GET_BALANCE
+Can you share my account balance?,GET_BALANCE
+Inform me about the balance in my bank account.,GET_BALANCE
+How much money do I have?,GET_BALANCE
+Please check my current balance.,GET_BALANCE
+Are there any balances to settle?,GET_DUE
+Please share my current balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Transfer $65 to my brother for the art supplies.,TRANSFER_MONEY
+What's my current balance?,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+Tell me my account balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+I'm interested in knowing my account balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Can you share my current account balance?,GET_BALANCE
+I want to know my balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Do I have any pending expenses to be addressed off?,GET_DUE
+Are there any outstanding balances to be settled?,GET_DUE
+Can you check my current balance?,GET_BALANCE
+Tell me the amount in my account.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Inform me about my account balance.,GET_BALANCE
+Is there any money owed?,GET_DUE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Provide details about my balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+Please check my current balance.,GET_BALANCE
+Transfer $100 to John.,TRANSFER_MONEY
+I'd like to check my current account balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+Is there any outstanding rent?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Is there any unpaid rent to be settled off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Tell me the amount in my account.,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Please send $120 to my friend for the gardening supplies.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Are there any unpaid balances to be addressed off?,GET_DUE
+Please send $120 to my niece for the coding bootcamp.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I want to know my balance.,GET_BALANCE
+I'd like to move $110 to my friend for the coding bootcamp.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any debt I need to address?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+I'd like to check my current account balance.,GET_BALANCE
+Do I have any balances to be settled off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Transfer $55 to Michael for the new gadget.,TRANSFER_MONEY
+Move $90 to my sister's PayPal.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+Provide my balance details.,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+How much money is there in my account?,GET_BALANCE
+Are there any unpaid balances to be settled?,GET_DUE
+Are there any overdue expenses?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Do I have any balances to be addressed off?,GET_DUE
+Is there any pending fees to be cleared off?,GET_DUE
+Is there any pending payments to be cleared off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Check and inform me about my balance.,GET_BALANCE
+Tell me my current account balance.,GET_BALANCE
+Let me know the balance in my account.,GET_BALANCE
+Share information about my balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Have I forgotten to clear any dues?,GET_DUE
+Provide details about my current balance.,GET_BALANCE
+Are there any unpaid balances to be settled off?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Do I have any pending dues to be addressed off?,GET_DUE
+"I'd like to check my balance, please.",GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any unpaid rent to be addressed off?,GET_DUE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Send $95 to my daughter for the dance class.,TRANSFER_MONEY
+Are there any unsettled debts to be addressed off?,GET_DUE
+Are there any pending bills to be addressed off?,GET_DUE
+Are there any outstanding charges?,GET_DUE
+I'm interested in knowing my account balance.,GET_BALANCE
+Send $120 to my niece for the coding bootcamp.,TRANSFER_MONEY
+Could you please check and tell me my balance?,GET_BALANCE
+I want to know my balance.,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+I need to send $70 to my sister for the painting workshop.,TRANSFER_MONEY
+Are there any balances to be cleared up?,GET_DUE
+What's the balance in my account right now?,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+What is my balance right now?,GET_BALANCE
+I'd like to move $110 to my wife's account.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Are there any balances to be settled?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Is there any unpaid rent to be settled off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Let me know the balance in my account.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Inform me about the balance in my account.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Are there any unsettled debts?,GET_DUE
+Send $150 to David for the concert tickets.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+How much money is there in my account?,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+How much money is there in my account?,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+Tell me my account balance.,GET_BALANCE
+Are there any balances to be cleared off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Check and inform me about my balance.,GET_BALANCE
+Is there any unpaid rent to be cleared?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any unpaid rent?,GET_DUE
+How much money is in my account?,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Please share the details of my balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Do I have any unpaid balances?,GET_DUE
+Can you check my balance for me?,GET_BALANCE
+Please inform me about my current balance.,GET_BALANCE
+Are there any balances to be cleared off?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+Please send $65 to Sarah for the concert.,TRANSFER_MONEY
+Is there any unpaid rent to be paid?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any overdue rent to be cleared off?,GET_DUE
+"I'd like to check my balance, please.",GET_BALANCE
+Transfer $40 to my daughter's account.,TRANSFER_MONEY
+Are there any unpaid balances?,GET_DUE
+Is there any unpaid balance?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+I want to know my balance.,GET_BALANCE
+Is there any overdue rent to be cleared off?,GET_DUE
+Share information about my balance.,GET_BALANCE
+Can you provide my current balance?,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Do I have any unpaid bills?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Share details about my balance.,GET_BALANCE
+I'd like to inquire about my balance.,GET_BALANCE
+I want to transfer $50 to Emily.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Let me know the current balance in my account.,GET_BALANCE
+I want to inquire about my balance.,GET_BALANCE
+Provide details about my balance.,GET_BALANCE
+Give me details about my balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Check and let me know my current balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+Inform me about the balance in my bank account.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+What's the balance in my account right now?,GET_BALANCE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Send $80 to my friend for the music concert.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any pending fees to be settled off?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Are there any pending bills to be settled?,GET_DUE
+Are there any outstanding invoices?,GET_DUE
+Is there any unpaid amount?,GET_DUE
+Check and provide my account balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any pending bills to be addressed?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+What is the balance in my account at the moment?,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+Transfer $100 to my friend for the fitness workshop.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Let me know the current balance in my account.,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Are there any overdue payments to be addressed off?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+I'd like to check my current account balance.,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Are there any pending charges?,GET_DUE
+Inform me about my account balance.,GET_BALANCE
+Are there any unsettled debts to be addressed off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+How much money is in my account?,GET_BALANCE
+Are there any unpaid bills?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+Is there any outstanding rent due?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any overdue charges?,GET_DUE
+Is there any pending fees to be settled off?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+Do I have any pending invoices to be paid?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Is there any pending payments to be made?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Are there any overdue payments?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Do I have any unpaid amounts?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any unsettled accounts?,GET_DUE
+Is there any pending rent?,GET_DUE
+Check and let me know my account balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+How much money is in my account?,GET_BALANCE
+Do I have any balances to clear?,GET_DUE
+Let me know the current balance in my account.,GET_BALANCE
+I want to inquire about my balance.,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Do I have any balances to be addressed off?,GET_DUE
+I'd like to check my current account balance.,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+Tell me my account balance.,GET_BALANCE
+Can you check my account balance?,GET_BALANCE
+Please check my current balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Inform me about the balance in my account.,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+I'd like to inquire about my balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Do I have any pending expenses to be addressed off?,GET_DUE
+Is there any pending rent to be paid?,GET_DUE
+Is there any pending fees to be cleared off?,GET_DUE
+Give me details about my balance.,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Can you check my balance for me?,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any unsettled debts to be addressed off?,GET_DUE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Are there any outstanding payments?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+Can you check my account balance?,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Are there any unpaid balances to be settled off?,GET_DUE
+Do I have any balances to be addressed off?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+I want to check my balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Tell me my current account balance.,GET_BALANCE
+Are there any overdue payments to be addressed off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any outstanding balances to be cleared off?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+Inform me about the balance in my bank account.,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+I'm interested in knowing my account balance.,GET_BALANCE
+Do I have any pending payments?,GET_DUE
+Let me know the current balance in my account.,GET_BALANCE
+Do I have any obligations?,GET_DUE
+I'm interested in knowing my account balance.,GET_BALANCE
+Check and inform me about my balance.,GET_BALANCE
+Are there any overdue payments to be addressed off?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+How much money do I have?,GET_BALANCE
+What is the balance in my account at the moment?,GET_BALANCE
+Please transfer $75 to my daughter for the robotics workshop.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any balances to be cleared?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Inform me about the balance in my bank account.,GET_BALANCE
+Can you check my current balance?,GET_BALANCE
+I want to check my balance.,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+What's the balance in my account?,GET_BALANCE
+I'd like to move $85 to my emergency fund.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Can you check my account balance?,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Are there any unsettled debts to be paid?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+Let me know the current balance in my account.,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+Are there any unsettled debts to be addressed?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+I'd like to move $80 to my vacation fund.,TRANSFER_MONEY
+Transfer $130 to Susan's bank account.,TRANSFER_MONEY
+Inform me about the balance in my bank account.,GET_BALANCE
+Share details about my balance.,GET_BALANCE
+I'm interested in knowing my balance.,GET_BALANCE
+Do I have any pending dues to be addressed off?,GET_DUE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Do I have any unpaid fees?,GET_DUE
+What's the balance in my account?,GET_BALANCE
+Check and inform me about my balance.,GET_BALANCE
+Please share my current balance.,GET_BALANCE
+What is the current balance in my account?,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+What is the balance in my account at the moment?,GET_BALANCE
+Can you provide my current balance?,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Tell me my current account balance.,GET_BALANCE
+Can you share my current account balance?,GET_BALANCE
+What's my current balance?,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any unpaid rent to be settled off?,GET_DUE
+I need to send $100 to my sister for the language course.,TRANSFER_MONEY
+Can you check my balance for me?,GET_BALANCE
+I'd like to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Is there any unpaid rent to be settled?,GET_DUE
+Please transfer $85 to my son for the computer course.,TRANSFER_MONEY
+Can you transfer $70 to my brother for the painting workshop?,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+How much money do I have in my account?,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Do I have any balances to clear off?,GET_DUE
+Is there any unpaid rent to be addressed off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Transfer $120 to my daughter for the music concert.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Do I have any pending dues to be addressed off?,GET_DUE
+I want to check my balance.,GET_BALANCE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Do I have any unpaid payments to be cleared off?,GET_DUE
+What's my current balance?,GET_BALANCE
+Is there any pending payments to be cleared?,GET_DUE
+Share my account balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Please share the details of my balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Is there any overdue rent to be paid?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Is there any unpaid rent to be settled off?,GET_DUE
+Please share the details of my balance.,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Do I have any balances to clear?,GET_DUE
+Provide details about my balance.,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+I want to transfer $75 to my parents.,TRANSFER_MONEY
+Check and provide my current account balance.,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Check and let me know my current balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Can you provide information on my account balance?,GET_BALANCE
+Do I have any pending dues to be addressed off?,GET_DUE
+Send $70 to my son for the painting class.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+Please share my current balance.,GET_BALANCE
+Please send $65 to my niece for the dance lessons.,TRANSFER_MONEY
+I'd like to check my current account balance.,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+How much money is in my account?,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any unpaid balances to be settled off?,GET_DUE
+Do I have any unpaid payments?,GET_DUE
+Tell me the amount in my account.,GET_BALANCE
+I'd like to inquire about my balance.,GET_BALANCE
+Is there any unpaid money?,GET_DUE
+Share my account balance.,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Inform me about my account balance.,GET_BALANCE
+Transfer $65 to my daughter for the photography class.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+Is there any unpaid rent to be settled off?,GET_DUE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Check and let me know my account balance.,GET_BALANCE
+Is there any debt I need to address off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+Is there any debt I need to address off?,GET_DUE
+I want to inquire about my balance.,GET_BALANCE
+Do I have any balances to address?,GET_DUE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Could you please check and tell me my balance?,GET_BALANCE
+Do I have any balances to be settled off?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Check and let me know my account balance.,GET_BALANCE
+Tell me my account balance.,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+I'd like to inquire about my balance.,GET_BALANCE
+Are there any unpaid balances to be settled off?,GET_DUE
+Are there any unpaid balances to be settled off?,GET_DUE
+Do I have any balances to be addressed off?,GET_DUE
+Are there any overdue bills?,GET_DUE
+Is there any unpaid rent to be settled off?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Can you check my account balance?,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Give me information about my balance.,GET_BALANCE
+Provide details about my current balance.,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Can you share my current account balance?,GET_BALANCE
+Share details about my balance.,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Check and provide my current account balance.,GET_BALANCE
+Let me know the balance in my account.,GET_BALANCE
+Check and provide my current account balance.,GET_BALANCE
+Let me know the current balance in my account.,GET_BALANCE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+I'd like to inquire about my balance.,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Could you please check and tell me my balance?,GET_BALANCE
+Please check and tell me my balance?,GET_BALANCE
+I'm interested in knowing my balance.,GET_BALANCE
+Can you provide information on my account balance?,GET_BALANCE
+I want to inquire about my balance.,GET_BALANCE
+Is there any debt I need to clear up?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+Check and let me know my current balance.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+Move $130 to my son for the woodworking tools.,TRANSFER_MONEY
+Is there any money I need to reimburse?,GET_DUE
+Transfer $110 to my niece for her art exhibition.,TRANSFER_MONEY
+Transfer $150 to my daughter's account.,TRANSFER_MONEY
+Check and let me know my account balance.,GET_BALANCE
+What is the current balance in my account?,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Could you please tell me my current balance?,GET_BALANCE
+Are there any pending bills to be addressed off?,GET_DUE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Share my account balance.,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Inform me about the balance in my bank account.,GET_BALANCE
+Do I have any balances to pay?,GET_DUE
+Are there any overdue payments to be addressed off?,GET_DUE
+What's my current balance?,GET_BALANCE
+Give me details about my balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any outstanding rent to be cleared off?,GET_DUE
+Please check my current balance.,GET_BALANCE
+Are there any outstanding balances to be cleared off?,GET_DUE
+Could you please check and tell me my balance?,GET_BALANCE
+Can you provide my current balance?,GET_BALANCE
+Is there any unpaid rent to be settled off?,GET_DUE
+Could you please tell me my current balance?,GET_BALANCE
+What's my balance right now?,GET_BALANCE
+Is there any debt I need to address off?,GET_DUE
+Is there any pending fees to be paid?,GET_DUE
+Provide my balance details.,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Send $120 to my friend for the car repair.,TRANSFER_MONEY
+Is there any debt I need to address off?,GET_DUE
+Share information about my balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+What is my balance right now?,GET_BALANCE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Tell me the amount in my account.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Inform me about the balance in my bank account.,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Please inform me about my current balance.,GET_BALANCE
+Can you transfer $95 to my sister's account?,TRANSFER_MONEY
+Tell me the amount in my account.,GET_BALANCE
+Let me know the current balance in my account.,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Tell me my current account balance.,GET_BALANCE
+Are there any balances to be cleared off?,GET_DUE
+Please inform me about my current balance.,GET_BALANCE
+I'd like to check my current account balance.,GET_BALANCE
+Can you transfer $95 to my brother for the photography class?,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Can you share my account balance?,GET_BALANCE
+I'd like to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Do I have any pending dues to be addressed off?,GET_DUE
+I need to send $70 to my sister for the painting workshop.,TRANSFER_MONEY
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Inform me about the balance in my bank account.,GET_BALANCE
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+I need to send $100 to my parents.,TRANSFER_MONEY
+Give me information about my balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Check and let me know my account balance.,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+Give me information about my balance.,GET_BALANCE
+What's the balance of my account?,GET_BALANCE
+Provide my balance details.,GET_BALANCE
+How much money is there in my account?,GET_BALANCE
+Is there any debt I need to address off?,GET_DUE
+Is there any outstanding rent to be settled?,GET_DUE
+Are there any outstanding balances to be cleared off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Do I have any outstanding dues?,GET_DUE
+Can you provide information on my account balance?,GET_BALANCE
+Are there any overdue payments to be addressed off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+I want to inquire about my balance.,GET_BALANCE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Are there any unsettled charges?,GET_DUE
+I'd like to inquire about my balance.,GET_BALANCE
+I want to inquire about my balance.,GET_BALANCE
+I need to move $110 to my pet's vet fund.,TRANSFER_MONEY
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Please inform me about my current balance.,GET_BALANCE
+Transfer $35 to my son's gaming fund.,TRANSFER_MONEY
+I'd like to check my current account balance.,GET_BALANCE
+I'd like to move $55 to my brother for the dance lessons.,TRANSFER_MONEY
+Please send $65 to my daughter for the swimming lessons.,TRANSFER_MONEY
+Inform me about the balance in my bank account.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Transfer $70 to my friend Alex.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+Can you transfer $75 to my friend for the woodworking workshop?,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+I want to transfer $110 to my savings account.,TRANSFER_MONEY
+Is there any overdue rent to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Share my account balance.,GET_BALANCE
+Do I have any unpaid payments to be cleared off?,GET_DUE
+Are there any balances to be cleared off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+I want to inquire about my balance.,GET_BALANCE
+Send $75 to my brother for the painting workshop.,TRANSFER_MONEY
+Send $80 to Lisa for the party.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Are there any overdue payments to be addressed off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+Are there any pending expenses?,GET_DUE
+Is there any overdue rent to be cleared?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Check and let me know my current balance.,GET_BALANCE
+How much money do I have in my account?,GET_BALANCE
+Is there any pending fees to be cleared off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Are there any pending bills to be addressed off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Is there any pending fees to be cleared off?,GET_DUE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Transfer $110 to my brother's bank account.,TRANSFER_MONEY
+Please share my current balance.,GET_BALANCE
+Are there any unpaid balances to be addressed?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+Do I have any pending expenses to be addressed off?,GET_DUE
+Can you check my account balance?,GET_BALANCE
+Please share the details of my balance.,GET_BALANCE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Send $95 to my nephew for his birthday.,TRANSFER_MONEY
+Do I have any balances to be settled off?,GET_DUE
+I want to know my balance.,GET_BALANCE
+Check and let me know my current balance.,GET_BALANCE
+I want to know my balance.,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+What is the balance in my account at the moment?,GET_BALANCE
+I'm interested in knowing my balance.,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+Do I have any balances to be settled off?,GET_DUE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+I want to know my balance.,GET_BALANCE
+Can you transfer $75 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Check and provide my account balance.,GET_BALANCE
+Do I have any balances to settle?,GET_DUE
+Transfer $65 to my niece for the dance lessons.,TRANSFER_MONEY
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Do I have any pending invoices to be addressed off?,GET_DUE
+Check and inform me about my balance.,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Are there any overdue fees?,GET_DUE
+Do I have any pending payments?,GET_DUE
+Are there any unsettled debts to be addressed off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+How much money is there in my account?,GET_BALANCE
+Is there any pending payments to be cleared off?,GET_DUE
+Is there any amount due?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+What is the balance in my account at the moment?,GET_BALANCE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Please send $85 to my niece for the language class.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+Can you check my current balance?,GET_BALANCE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Are there any pending bills to be addressed off?,GET_DUE
+Can you share my account balance?,GET_BALANCE
+Can you transfer $70 to my friend for the fitness program?,TRANSFER_MONEY
+Can you check my current balance?,GET_BALANCE
+Tell me my account balance.,GET_BALANCE
+Check and provide my current account balance.,GET_BALANCE
+Transfer $95 to my daughter for the robotics workshop.,TRANSFER_MONEY
+What's the balance in my account right now?,GET_BALANCE
+Send $75 to my son for the painting workshop.,TRANSFER_MONEY
+Do I have any unpaid dues?,GET_DUE
+I want to send $100 to my niece for college.,TRANSFER_MONEY
+Are there any balances to be cleared off?,GET_DUE
+Can you transfer $110 to my friend for the coding bootcamp?,TRANSFER_MONEY
+Could you please check and tell me my balance?,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+What is the balance in my account at the moment?,GET_BALANCE
+Do I have any pending expenses?,GET_DUE
+Is there any overdue rent to be cleared off?,GET_DUE
+Transfer $95 to my son for the painting competition.,TRANSFER_MONEY
+Please inform me about my current balance.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Can you provide information on my account balance?,GET_BALANCE
+Do I have any pending invoices to be addressed off?,GET_DUE
+I need to send $110 to my daughter for the coding class.,TRANSFER_MONEY
+Provide details about my balance.,GET_BALANCE
+What is the balance in my account at the moment?,GET_BALANCE
+What's the balance of my account?,GET_BALANCE
+Inform me about the balance in my account.,GET_BALANCE
+I want to move $85 to my sister for the robotics competition.,TRANSFER_MONEY
+Please send $55 to my nephew for the language course.,TRANSFER_MONEY
+Are there any unpaid balances to be addressed off?,GET_DUE
+Inform me about my account balance.,GET_BALANCE
+Can you check my balance for me?,GET_BALANCE
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Tell me the amount in my account.,GET_BALANCE
+Transfer $65 to my son's college fund.,TRANSFER_MONEY
+Is there any pending payments to be cleared off?,GET_DUE
+Send $60 to my friend for the book club.,TRANSFER_MONEY
+What is my balance right now?,GET_BALANCE
+Can you provide information on my account balance?,GET_BALANCE
+I'd like to transfer $70 to my brother for the painting workshop.,TRANSFER_MONEY
+Move $110 to my daughter for the coding class.,TRANSFER_MONEY
+Is there any pending debt?,GET_DUE
+Is there any outstanding rent to be cleared off?,GET_DUE
+Transfer $120 to my friend for the gardening workshop.,TRANSFER_MONEY
+Is there any overdue rent to be addressed?,GET_DUE
+How much money do I have in my account?,GET_BALANCE
+Do I have any balances to be addressed off?,GET_DUE
+"Transfer $120 to my mom, please.",TRANSFER_MONEY
+Is there any debt I need to clear off?,GET_DUE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Share information about my balance.,GET_BALANCE
+Can you provide my current balance?,GET_BALANCE
+What is the current balance in my account?,GET_BALANCE
+I need to move $100 to my daughter for the fitness workshop.,TRANSFER_MONEY
+Is there any overdue rent to be cleared off?,GET_DUE
+Can you check my current balance?,GET_BALANCE
+Are there any unpaid balances to be settled off?,GET_DUE

@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "name": "JOHN DOE",
+            "auth_code": "abc123",
+            "accounts": [
+                {
+                    "acc_no": "123456",
+                    "balance": 1300.0,
+                    "dues": 200.0
+                }
+            ]
+        },
+        {
+            "name": "JANE SMITH",
+            "auth_code": "def456",
+            "accounts": [
+                {
+                    "acc_no": "789012",
+                    "balance": 600.0,
+                    "dues": 0.0
+                }
+            ]
+        },
+        {
+            "name": "AJAY",
+            "auth_code": "hello mister",
+            "accounts": [
+                {
+                    "acc_no": "001",
+                    "balance": 100.0,
+                    "dues": 200.0
+                }
+            ]
+        },
+        {
+            "name": "MOHAN",
+            "auth_code": "4b980714-a64a-4b61-805b-6e852e6fe31f",
+            "accounts": [
+                {
+                    "acc_no": "012",
+                    "balance": 700,
+                    "dues": 0
+                }
+            ]
+        },
+        {
+            "name": "HI",
+            "auth_code": "d662442d-55c6-484b-b942-8078afcf0d98",
+            "accounts": [
+                {
+                    "acc_no": "003",
+                    "balance": 100,
+                    "dues": 0
+                }
+            ]
+        },
+        {
+            "name": "SRINIDHI",
+            "auth_code": "03af4206-10dc-421f-a569-8937284dc923",
+            "accounts": [
+                {
+                    "acc_no": "004",
+                    "balance": 300,
+                    "dues": 0
+                }
+            ]
+        }
+    ]
+}
